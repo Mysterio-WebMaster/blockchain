@@ -1,0 +1,18 @@
+@media screen and (max-width: 770px)
+{
+   
+
+    .lbg, .sbg
+    {
+        
+        background: #0da3e3ec;
+        height: 100%;
+        width: 100%;
+        z-index: -1;
+    }
+
+    .login-box form input, .signin-box form input, .signin-box textarea
+    {
+        width: 100%;
+    }
+}
